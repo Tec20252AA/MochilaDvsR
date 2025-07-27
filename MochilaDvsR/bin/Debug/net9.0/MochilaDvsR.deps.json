@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MochilaDvsR/1.0.0": {
+        "runtime": {
+          "MochilaDvsR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MochilaDvsR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

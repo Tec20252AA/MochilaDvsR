@@ -1,0 +1,14 @@
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/bin/Debug/net9.0/MochilaDvsR
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/bin/Debug/net9.0/MochilaDvsR.deps.json
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/bin/Debug/net9.0/MochilaDvsR.runtimeconfig.json
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/bin/Debug/net9.0/MochilaDvsR.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/bin/Debug/net9.0/MochilaDvsR.pdb
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/MochilaDvsR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/MochilaDvsR.AssemblyInfoInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/MochilaDvsR.AssemblyInfo.cs
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/MochilaDvsR.csproj.CoreCompileInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/MochilaDvsR.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/refint/MochilaDvsR.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/MochilaDvsR.pdb
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/MochilaDvsR.genruntimeconfig.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/MochilaDvsR/MochilaDvsR/obj/Debug/net9.0/ref/MochilaDvsR.dll
